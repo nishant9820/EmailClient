@@ -4,7 +4,7 @@
     "slug": "EmailClient",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/Email_logo.png",
+    "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,10 +13,9 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/Email_logo.png",
+        "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.nish9820.EmailClient"
+      }
     },
     "web": {
       "bundler": "metro",
@@ -37,16 +36,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "SENDGRID_API_URL": "https://api.sendgrid.com/v3/mail/send",
-      "SENDGRID_API_KEY": "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",
-      "router": {
-        "origin": false
-      },
-      "eas": {
-        "projectId": "80c48ed4-631d-4091-abe8-38f4c10318eb"
-      }
     }
   }
 }

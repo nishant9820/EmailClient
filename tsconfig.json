@@ -13,5 +13,16 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "babel.config.js",
+    "metro.config.js"
+  ],
+  "typeRoots": [
+    "./node_modules/@types",
+    "./@types",
+    "./node_modules/react-native-reanimated/types",
+    //  "./types",
   ]
 }
