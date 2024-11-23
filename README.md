@@ -25,13 +25,14 @@ Provide a link or instructions on how to access a live demo of the project if av
 ## Screenshots
 
 
-   <img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Home_Light.jpg?alt=media&token=2990ea6a-ece8-4237-aa27-9c5a299a3a68" width="100"    width="200"    /> 
+  <div style="display: flex; justify-content: space-between;">
+  <img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Home_Light.jpg?alt=media&token=2990ea6a-ece8-4237-aa27-9c5a299a3a68" width="200" height="auto" alt="Home Light">
+  
+  <img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Home_Dark.jpg?alt=media&token=24af3fbf-5bfd-454e-b308-73895d8704d6" width="200" height="auto" alt="Home Dark">
+  
+  <img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Drawer.jpg?alt=media&token=da18d18f-67c4-47a1-8fe4-b20efc5f9608" width="200" height="auto" alt="Drawer">
+</div>
 
-
-
-
-   <img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Home_Dark.jpg?alt=media&token=24af3fbf-5bfd-454e-b308-73895d8704d6" width="100"  width="200"  />
-<img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Drawer.jpg?alt=media&token=da18d18f-67c4-47a1-8fe4-b20efc5f9608" width="100"  width="200"  />
 
 ## Video
 [Check out this video to see how the app works in action!](https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Video%202.mp4?alt=media&token=77b55ad8-caf8-47c0-a6c0-16e3a1c5feac)
