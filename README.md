@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="	https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Email_Logo.png?alt=media&token=04d3788a-ffd7-4e1f-a9e4-21af20fdd83d"  />
+   <img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Email_Logo.png?alt=media&token=04d3788a-ffd7-4e1f-a9e4-21af20fdd83d"  />
     <h1>MailSnap</h1>
 </div>
 
