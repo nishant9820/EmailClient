@@ -25,13 +25,14 @@ Provide a link or instructions on how to access a live demo of the project if av
 ## Screenshots
 
 
-  <div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
   <img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Home_Light.jpg?alt=media&token=2990ea6a-ece8-4237-aa27-9c5a299a3a68" width="200" height="auto" alt="Home Light">
   
   <img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Home_Dark.jpg?alt=media&token=24af3fbf-5bfd-454e-b308-73895d8704d6" width="200" height="auto" alt="Home Dark">
   
   <img src="https://firebasestorage.googleapis.com/v0/b/fir-auth-6de62.appspot.com/o/Drawer.jpg?alt=media&token=da18d18f-67c4-47a1-8fe4-b20efc5f9608" width="200" height="auto" alt="Drawer">
 </div>
+
 
 
 ## Video
